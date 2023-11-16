@@ -46,3 +46,4 @@ num_pares = int(input("Ingrese la cantidad de pares a seleccionar: "))
 pares_seleccionados = [input(f"Ingrese el par {i+1} separado por comas: ") for i in range(num_pares)]
 
 verificar_biyectividad(pares_seleccionados, conjunto1, conjunto2)
+#x2 lo del commit?

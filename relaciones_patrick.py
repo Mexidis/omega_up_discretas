@@ -6,7 +6,7 @@ def es_reflexiva(relacion, conjunto):
             return False
 
     return True
-
+#no lo se rick parece falso
 def verificar_relacion(conjunto, n, relaciones):
     reflexiva = es_reflexiva(relaciones, conjunto)
     simetrica = True

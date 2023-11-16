@@ -41,3 +41,4 @@ elif transitiva:
     print("Transitiva")
 else:
     print("No")
+#será o no?

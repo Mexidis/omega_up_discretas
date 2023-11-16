@@ -41,3 +41,4 @@ num_pares = int(input())
 pares_seleccionados = [input() for _ in range(num_pares)]
 
 verificar_biyectividad(pares_seleccionados, conjunto1, conjunto2)
+#ah caray, se subió el commit?
